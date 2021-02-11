@@ -70,12 +70,12 @@ Final Results - accuracy: 80% - val_accuracy: 73%
 
 Mutlimodal Verification Results:
 <p align='center'>
-<img src="./images/m1.png" alt="Sample" style="text-align:center; width: 400px;">
-<img src="./images/m2.png" alt="Sample" style="text-align:center; width: 400px;">
+<img src="./images/final_loss.png" alt="Sample" style="text-align:center; width: 400px;">
+<img src="./images/final_accuracy.png" alt="Sample" style="text-align:center; width: 400px;">
 </p>
 <p align='center'>
-<img src="./images/m3.png" alt="Sample" style="text-align:center; width: 400px;">
-<img src="./images/m4.png" alt="Sample" style="text-align:center; width: 400px;">
+<img src="./images/final_precision.png" alt="Sample" style="text-align:center; width: 400px;">
+<img src="./images/final_recall.png" alt="Sample" style="text-align:center; width: 400px;">
 </p>
 
 ```
