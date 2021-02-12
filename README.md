@@ -25,6 +25,17 @@ Our deep learning model uses a siamese network to perform a one-shot learning ta
 </p>
 
 ***
+
+## Creating Multimodal Pairs:
+
+This diagram explains how the data pairs was created before feeding into our final multimodal model.
+
+<p align='center'>
+<img src="./images/explaining_pair_distribution.png" alt="Sample" style="text-align:center; width: 400px;">
+</p>
+
+***
+
 ## Pipeline
 
 1. Audio clips are converted into MEL spectrograms using matplotlib.
