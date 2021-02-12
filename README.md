@@ -65,15 +65,13 @@ Mutlimodal Verification Results:
 <img src="./images/final_precision.png" alt="Sample" style="text-align:center; width: 400px;">
 </p>
 
-```Multimodal Precision: Training - 85.44%  Validation - 85.38% 
-```
+```Multimodal Precision: Training - 85.44%  Validation - 85.38% ```
 
 <p align='center'>
 <img src="./images/final_recall.png" alt="Sample" style="text-align:center; width: 400px;">
 </p>
 
-```Multimodal Recall: Training - 94.56%  Validation - 93.11% 
-```
+```Multimodal Recall: Training - 94.56%  Validation - 93.11% ```
 
 ***
 
