@@ -47,25 +47,13 @@ Our deep learning model uses a siamese network to perform a one-shot learning ta
 
 ## Results
 
-Face Recognition Results:
-<p align='center'>
-<img src="./images/image-loss.png" alt="Sample" style="text-align:center; width: 400px;">
-<img src="./images/image-acc.png" alt="Sample" style="text-align:center; width: 400px;">
-</p>
+| Model | Training Accuracy | Validation Accuracy |
+| ------ | ---------------- | ------------------- |
+| Image Classification | 80% | 77% |
+| Audio Classification | 80% | 73% |
+| Multimodal Classification | 89.13% | 88.81% |
 
-```
-Final Results - accuracy: 80% - val_accuracy: 77%
-```
 
-<br><br>
-Audio Recognition Results:
-<p align='center'>
-<img src="./images/audio-loss.png" alt="Sample" style="text-align:center; width: 400px;">
-</p>
-
-```
-Final Results - accuracy: 80% - val_accuracy: 73%
-```
 <br><br>
 
 Mutlimodal Verification Results:
@@ -75,12 +63,12 @@ Mutlimodal Verification Results:
 </p>
 <p align='center'>
 <img src="./images/final_precision.png" alt="Sample" style="text-align:center; width: 400px;">
+</p>
+```Multimodal Precision | Training - 85.44% | Validation - 85.38% |```
+<p align='center'>
 <img src="./images/final_recall.png" alt="Sample" style="text-align:center; width: 400px;">
 </p>
-
-```
-Final Results: accuracy: 78% - val_accuracy: 80%
-```
+```Multimodal Recall | Training - 94.56% | Validation - 93.11% |```
 
 ***
 
